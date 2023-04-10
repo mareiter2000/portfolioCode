@@ -1,0 +1,64 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .center {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .image1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .image2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  .image3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  .image4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  .image5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  .image6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  .image7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  .image8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  .fade-in-image {
+      animation: fadeIn 5s;
+      -webkit-animation: fadeIn 5s;
+      -moz-animation: fadeIn 5s;
+      -o-animation: fadeIn 5s;
+      -ms-animation: fadeIn 5s;
+    }
+    
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
